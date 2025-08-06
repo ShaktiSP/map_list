@@ -23,7 +23,6 @@ implementation 'com.google.android.libraries.places:places:3.3.0' // latest as o
 
 🧪 Example Output
 User types "New"
-
 Dropdown shows:
 
 "New York, NY, USA"
@@ -34,3 +33,5 @@ On tap: Fetches full details like lat/lng, name, and address
 
 ✅ You're Done!
 🎉 This is a fully working Google Places autocomplete integrated in your Android app.
+Image Screenshot
+<img width="720" height="1600" alt="Screenshot_20250806-112919" src="https://github.com/user-attachments/assets/f6648a47-da18-4fcb-a144-291d3fd1086b" />
